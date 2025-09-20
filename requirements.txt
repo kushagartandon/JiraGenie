@@ -1,0 +1,10 @@
+google-adk==0.3.0
+yfinance==0.2.56
+psutil==5.9.5
+litellm==1.66.3
+google-generativeai==0.8.5
+python-dotenv==1.1.0
+jira==3.10.5
+transformers==4.56.1
+torch==2.8.0
+scikit-learn==1.7.2
